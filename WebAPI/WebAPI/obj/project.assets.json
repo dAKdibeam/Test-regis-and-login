@@ -12955,11 +12955,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bubblebeam\\source\\repos2\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Bubblebeam\\source\\Test-regis-and-login\\WebAPI\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\Bubblebeam\\source\\repos2\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\Bubblebeam\\source\\Test-regis-and-login\\WebAPI\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Bubblebeam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bubblebeam\\source\\repos2\\WebAPI\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\Bubblebeam\\source\\Test-regis-and-login\\WebAPI\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
